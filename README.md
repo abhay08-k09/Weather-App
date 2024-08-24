@@ -19,11 +19,9 @@ The Weather App is a responsive web application that provides real-time weather 
 
 ## 📸 Screenshots
 
-<img src="https://github.com/abhay08-k09/Password-Manager/blob/main/Demo/PM%201.png" width="90%" />
+<img src="https://github.com/abhay08-k09/Weather-App/blob/main/Demo/weather-app-1.png" width="90%" />
 
-<img src="https://github.com/abhay08-k09/Password-Manager/blob/main/Demo/PM%202.png" width="90%" />
-
-<img src="https://github.com/abhay08-k09/Password-Manager/blob/main/Demo/PM%203.png" width="90%" />
+<img src="https://github.com/abhay08-k09/Weather-App/blob/main/Demo/weather-app-2.png" width="90%" />
 
 
 Feel free to reach out if you have any queries or need assistance with the project.
