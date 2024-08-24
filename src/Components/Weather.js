@@ -18,6 +18,7 @@ const Weather = () => {
     }
 
     async function fetchData() {
+        
         try {
             let response = await fetch(url);
             let output = await response.json();
@@ -32,9 +33,11 @@ const Weather = () => {
         } catch (error) {
             
         }
+        
     }
 
     return (
+        
     <div className='container'>
       <div className='city'>
             <input type='text' value={city} onChange={handleOnChange} placeholder='Enter any city name'></input>
@@ -46,6 +49,7 @@ const Weather = () => {
       {
         error && <p className='error-message'>{error}</p>
       }
+
       {
         weather && weather.weather && 
         <div className='content'>
@@ -66,6 +70,7 @@ const Weather = () => {
             </div>
 
             <div className='weather-stats'>
+          
                 <div className='wind'>
                     <div className='wind-icon'>
                         <FaWind></FaWind>
@@ -81,6 +86,7 @@ const Weather = () => {
                     <h3 className='humidity-percent'>{weather.main.humidity}<span>%</span></h3>
                     <h3 className='humidity-heading'>Humidity</h3>
                 </div>
+          
             </div>
 
             
